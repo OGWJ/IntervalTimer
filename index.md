@@ -5,19 +5,19 @@ It is lightweight, intuitive, and is designed to include only the functionality 
 
 ### Usage
 
-# Menu
+## Menu
 
-# Timer
+## Timer
 
-# Report
+## Report
 
 ### Inspiration
 
-# HIIT & Tabata
+## HIIT & Tabata
 
-# Strength & Conditioning
+## Strength & Conditioning
 
-# Stretching & Yoga
+## Stretching & Yoga
 
 ### Support & Bug Reports
 
