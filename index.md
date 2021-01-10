@@ -2,6 +2,8 @@
 
 Botech Interval Timer is a simple utility application to allow you to focus on the work. It is lightweight, intuitive, and designed to include only the functionality you need.
 
+![Image](https://raw.githubusercontent.com/OGWJ/IntervalTimer/gh-pages/FrameLight1024.png "test")
+
 ## Contents :
 - **Usage**
 	A detailed breakdown of how to use the app.
