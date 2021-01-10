@@ -9,7 +9,7 @@ Botech Interval Timer is a simple utility application to allow you to focus on t
 	A detailed breakdown of how to use the app.
 - **Inspiration**
 	Some suggestions for how to structure your workouts.
-- **Disclaimer**
+- **Disclaimer and Privacy Policy**
 	To use the app you must read and understood the risks associated with exercise and interval training.
 - **Support & Bug Reports**
 	Has details of how to contact me and how to submit a bug report.
@@ -42,8 +42,10 @@ Botech Interval Timer is also designed to supplement weight and resistance train
 **Stretching & Yoga**
 Botech Interval Timer is also suited to stucture stretching sessions and to practice holding static positions. To add intesity to an existing yoga regime, time your positions and regulate the time you spend between movements using this app.
 
-## Disclaimer
+## Disclaimer and Privacy Policy
 Any and all exercise may result in injury. Please note that your use of Botech Interval Timer and the information given on this page is at your own risk. The advice given is no substitute for medical consultation. You should not act or rely upon this information without seeking professional advice.
+
+Botech Interval Timer stores data locally on the device. This data includes only values for the three paramters (the number of sets, the duration of work and the duration of rest) last set by the user. This data is overwritten on every subsequent use of the app.
 
 ## Support & Bug Reports
 For additional support contact [OwenGlynWilliamJenkins@gmail.com](OwenGlynWilliamJenkins@gmail.com).
